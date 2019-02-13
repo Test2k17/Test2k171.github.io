@@ -1,0 +1,201 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.navbar {
+  background-color: #000000;
+}
+
+.carousel-item {
+  height: 80vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+/*
+* Extra curricular
+*/
+section#extracurricular {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #F5F5F5;
+}
+
+section#extracurricular .section-title, h2 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+/*
+* Class content
+*/
+section#class {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+
+section#class .section-title {
+  margin-bottom: 50px;
+}
+
+section#class h4 {
+  padding-bottom: 20px;
+}
+
+section#class .card-img-top {
+  padding-bottom: 25px;
+}
+/*
+* Instructor content
+*/
+section#instructor {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+section#instructor .section-title {
+  margin-bottom: 50px;
+}
+
+section#instructor .col-xl-8 {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+/*
+* Contact content
+*/
+section#contact {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+section#contact .section-title {
+  margin-bottom: 50px;
+}
+
+
+
+/*
+* venue.html
+*/
+
+/*
+* Harrow content
+*/
+section#harrow {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+section#harrow .section-title {
+  margin-bottom: 50px;
+}
+/*
+* Edgware content
+*/
+section#edgware {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+section#edgware .section-title {
+  margin-bottom: 50px;
+}
+/*
+* Mill Hill content
+*/
+section#millhill {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+section#millhill .section-title {
+  margin-bottom: 50px;
+}
+
+
+
+/*
+* class.html
+*/
+
+/*
+* Notes content
+*/
+section#notes {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+section#notes .section-title {
+  margin-bottom: 50px;
+}
+/*
+* Grading content
+*/
+section#grading {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+section#grading .section-title {
+  margin-bottom: 50px;
+}
+
+section#grading .p0 {
+  margin-bottom: 40px;
+}
+
+section#grading .p1 {
+  margin-top: 30px;
+}
+
+section#grading .p2 {
+  margin-top: 70px;
+}
+/*
+* Starter guide content
+*/
+section#starterguide {
+  padding-top: 100px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+section#starterguide .section-title {
+  margin-bottom: 50px;
+}
+
+
+
+/*
+* Footer
+*/
+footer {
+  background-color: #000000;
+}
